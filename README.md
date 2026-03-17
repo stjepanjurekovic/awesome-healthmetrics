@@ -84,6 +84,7 @@ A curated list of awesome resources at the intersection of healthcare and AI.
 
 - [Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again](https://www.amazon.com/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638/ref=sr_1_1?ie=UTF8&qid=1547245092&sr=8-1)
 - [The Digital Doctor: Hope, Hype, and Harm at the Dawn of Medicine’s Computer Age](https://www.amazon.com/Digital-Doctor-Hope-Medicines-Computer/dp/0071849467/ref=sr_1_1?ie=UTF8&qid=1547245287&sr=8-1)
+- [Healthcare IT: Build and run real-world health systems](https://www.manning.com/books/healthcare-it)
 
 ### Courses
 
